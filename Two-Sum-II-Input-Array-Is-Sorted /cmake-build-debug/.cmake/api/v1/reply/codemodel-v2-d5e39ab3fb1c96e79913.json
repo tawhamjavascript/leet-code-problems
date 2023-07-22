@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Two_Sum_II_Input_Array_Is_Sorted_",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Two_Sum_II_Input_Array_Is_Sorted_::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Two_Sum_II_Input_Array_Is_Sorted_-Debug-298fb97312b20ed982df.json",
+					"name" : "Two_Sum_II_Input_Array_Is_Sorted_",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/Backup/code/leet-code/Two-Sum-II-Input-Array-Is-Sorted /cmake-build-debug",
+		"source" : "/Volumes/Backup/code/leet-code/Two-Sum-II-Input-Array-Is-Sorted "
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
